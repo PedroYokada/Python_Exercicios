@@ -7,12 +7,3 @@
 # misturar latas e galões, de forma que o desperdício de tinta seja menor. Acrescente 10% de folga e sempre arredonde os valores para cima, 
 # isto é, considere latas cheias.
 
-metros_quadrados = float(input("Insira a quantidade de metros quadrados: "))
-
-litros = float(metros_quadrados / 6)
-
-latas = float(litros / 18)
-
-galao = float(litros / 3.6)
-
-
